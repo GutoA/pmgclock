@@ -1,0 +1,5 @@
+{
+  "name": "PMG Team Time",
+  "description": "An application that shows the live time in Cardiff, New York, Mountain View and Delhi. The time in each is large and easy to read. The cities have a country flag next to their name for easy identification at a glance. You can drag and drop the clocks to reorder them.",
+  "requestFramePermissions": []
+}
